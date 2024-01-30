@@ -85,9 +85,7 @@
                                 <a href="#tipe-blok" class="nav-item nav-link">Tipe & Blok</a>
                                 <a href="#denah" class="nav-item nav-link">Denah</a>
                                 <a href="#fasilitas" class="nav-item nav-link">Fasilitas</a>
-                                <a href="#lokasi" class="nav-item nav-link">Lokasi</a>
                             </div>
-                            {{-- <a href="{{ route('login') }}" class="btn btn-primary rounded-0 py-4 px-md-5 d-none d-lg-block">Login<i class="fa fa-arrow-right ms-3"></i></a> --}}
                         </div>
                     </nav>
                 </div>

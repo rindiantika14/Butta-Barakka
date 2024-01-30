@@ -7,7 +7,7 @@
     <meta property="og:title" content="{{$blok->nama_blok}}">
     <meta property="og:description" content="{{$blok->spesifikasi}}">
     <meta property="og:image" content="{{ url(Storage::url($blok->denah)) }}">
-    <meta property="og:url" content="http://127.0.0.1:8000/data-blok/{{$blok->id}}">
+    <meta property="og:url" content="https://butta-barakka-agency.vintech.my.id/data-blok/{{$blok->id}}">
 
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">
